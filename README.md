@@ -24,6 +24,9 @@ Welcome to my **Personal Portfolio Website** — a showcase of my web developmen
 - **Fonts & Icons** – Google Fonts, custom icons for visual enhancement.
 
 ---
+## live demo 
+
+ [View Live on GitHub Pages](https://github.com/aneelabashir786/22F3414-aneela-web-cp-task1-2/settings/pages)
 
 ## Installation & Usage
 
