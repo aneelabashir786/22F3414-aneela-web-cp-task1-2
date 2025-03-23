@@ -26,7 +26,7 @@ Welcome to my **Personal Portfolio Website** — a showcase of my web developmen
 ---
 ## live demo 
 
- [View Live on GitHub Pages](https://github.com/aneelabashir786/22F3414-aneela-web-cp-task1-2/settings/pages)
+ [View Live on GitHub Pages]( https://aneelabashir786.github.io/22F3414-aneela-web-cp-task1-2/)
 
 ## Installation & Usage
 
