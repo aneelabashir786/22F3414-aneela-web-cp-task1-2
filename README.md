@@ -42,7 +42,7 @@ To run this project locally:
    start index.html
    ```
 Your Name
-📧 Email: your.email@example.com
-📱 LinkedIn: linkedin.com/in/yourprofile
-🐙 GitHub: github.com/yourusername
+📧 Email: f223414@cd.nu.edu.pk
+📱 LinkedIn: https://www.linkedin.com/in/aneela-bashir-990b63341/
+🐙 GitHub: https://github.com/aneelabashir786
 
