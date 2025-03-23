@@ -35,14 +35,15 @@ To run this project locally:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd portfolio-website
+   cd 22F3414-aneela-web-cp-task1-2
    ```
 3. Open index.html in your browser:
    ```bash  
    start index.html
-   ```
-Your Name
-📧 Email: f223414@cd.nu.edu.pk
-📱 LinkedIn: https://www.linkedin.com/in/aneela-bashir-990b63341/
-🐙 GitHub: https://github.com/aneelabashir786
+    ```
+   
+Aneela Bashir
+1. Email: f223414@cd.nu.edu.pk
+2. LinkedIn: https://www.linkedin.com/in/aneela-bashir-990b63341/
+3. GitHub: https://github.com/aneelabashir786
 
